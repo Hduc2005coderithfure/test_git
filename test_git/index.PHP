@@ -14,7 +14,8 @@ $age = 21;
 echo "Xin chao $name";
 echo "<br>";
 echo "Tuoi: $age";
-echo "lop": $class";
+echo "lop: $class";
+<input type="checkbox" name="text" value=""  id="">
 ?>
 </body>
 </html> 
