@@ -14,7 +14,7 @@ $age = 21;
 echo "Xin chao $name";
 echo "<br>";
 echo "Tuoi: $age";
-
+echo "lop": $class";
 ?>
 </body>
 </html> 
